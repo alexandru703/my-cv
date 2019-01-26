@@ -1,8 +1,8 @@
 Todo list:
 # Landing page (part 1)
 ✔ clean _partial from previous lesson @done (1/26/2019, 6:22:25 PM)
-☐ use icmoon.io to generate custom font
-☐ dowland font files and font source into _asset/font (commit)
+✔ use icmoon.io to generate custom font @done (1/26/2019, 6:50:31 PM)
+✔ dowland font files and font source into _asset/font (commit) @done (1/26/2019, 6:50:32 PM)
 ☐ create layout/page
 ☐ add border-box and fluid typography
 ☐ add reset css
