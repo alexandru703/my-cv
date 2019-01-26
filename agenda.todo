@@ -7,7 +7,12 @@ Todo list:
 ✔ add border-box and fluid typography @done (1/26/2019, 7:10:12 PM)
 ✔ add xreset css @done (1/26/2019, 7:10:56 PM)
 ✔ import font files (commit) @done (1/26/2019, 7:17:35 PM)
-☐ create full name variable and implement into structure
-☐ create title variable and implement into structure
+✔ create full name variable and implement into structure @done (1/26/2019, 7:30:48 PM)
+✔ create title variable and implement into structure @done (1/26/2019, 7:30:50 PM)
 ☐ create social list variables composed of objects with "icon" and "url" keys
 and implement into strucute (facebook, youtube, github etc) (commit)
+# Landing page (part 2)
+☐ create landing page labels into social > social-itel > social-labels
+☐ create input box-ratio list next to box-message which contains a box-link
+☐ create a reset input radio followed by a box-message and box-header which cointains a box-info and a box-close
+☐ style landing page
