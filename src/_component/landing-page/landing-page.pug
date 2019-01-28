@@ -1,7 +1,7 @@
 -
   var myFullName = 'Alexandru Stan'
   var myJobTitle = 'Junior Web Developer'
-  var socialList - [
+  var socialList = [
     {icon: 'facebook', url: 'https://facebook.com/alexandrustan'},
     {icon: 'github', url: 'https://github.com/alexandru703'},
       ]
@@ -14,4 +14,4 @@
       each social in socialList
         li.landing-page__item
           label.landing-page__label(for="")
-            span(class=`my-cv__icon--home`)
+            span(class=`my-cv__icon--${social.icon}`)
