@@ -9,10 +9,10 @@ Todo list:
 ✔ import font files (commit) @done (1/26/2019, 7:17:35 PM)
 ✔ create full name variable and implement into structure @done (1/26/2019, 7:30:48 PM)
 ✔ create title variable and implement into structure @done (1/26/2019, 7:30:50 PM)
-☐ create social list variables composed of objects with "icon" and "url" keys
+✔ create social list variables composed of objects with "icon" and "url" keys @done (17/03/2019, 19:02:40)
 and implement into strucute (facebook, youtube, github etc) (commit)
 # Landing page (part 2)
-☐ create landing page labels into social > social-itel > social-labels
+✔ create landing page labels into social > social-itel > social-labels @done (17/03/2019, 19:02:54)
 ☐ create input box-ratio list next to box-message which contains a box-link
 ☐ create a reset input radio followed by a box-message and box-header which cointains a box-info and a box-close
 ☐ style landing page
